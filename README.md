@@ -2,18 +2,18 @@ A collection of simple Python practice scripts, mini-projects, and learning exer
 
 Each project has its own folder, keeping the repository organised and easy to explore. I will be adding more folders with projects subsequently as a widen my knowledge in Python programming.
 
-#How to Run Any of Script
+How to Run Any of Script
 
-###Clone the repository:
+Clone the repository:
 git clone https://github.com/scopielala/Mini-Python-Projects.git
 
-###Navigate into the scripts folder:
+Navigate into the scripts folder:
 cd mini-python-projects/folder-name
 
-###Run the script:
+Run the script:
 python scriptname.py
 
-##Purpose of this repository
+Purpose of this repository
 
 - Practice Python fundamentals
 - Build small Utilities and tools
